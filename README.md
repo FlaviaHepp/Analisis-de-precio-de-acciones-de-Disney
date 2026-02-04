@@ -72,4 +72,4 @@ No constituye asesoramiento financiero ni recomendaciones de inversión.
 ## 👤Autor
 
 **Flavia Hepp**
-Data Science · Análisis Financiero · Visualización de Datos
+Data Science en formación · Análisis Financiero · Visualización de Datos
