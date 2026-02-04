@@ -1,16 +1,9 @@
-# Analisis-de-precio-de-acciones-de-Disney
-El análisis de estos datos ayuda a comprender las tendencias de los precios de las acciones de Disney, la volatilidad y el comportamiento general del mercado.
-
-Se ingresó a la interfaz de Visual Studio Code para leer el archivo car_evaluation.xlsx utilizando la librería de Pandas de Python. Este dataset, contiene información sobre datos de fecha y precios.
-Se realizó un análisis exploratorio de datos del Dataset.
-Mediante las bibliotecas de Matplotlib, Seaborn y Plotly de Python, se elaboraron 3 visualizaciones de datos con sus correspondientes interpretaciones.
-
-📊 Análisis del Precio de las Acciones de Disney (DIS)
+# 📊Análisis del Precio de las Acciones de Disney (DIS)
 
 Este proyecto realiza un análisis exploratorio del precio de las acciones de The Walt Disney Company (DIS) utilizando datos bursátiles diarios.
 El objetivo principal es visualizar el comportamiento histórico del precio, el volumen de negociación y la tendencia mediante medias móviles.
 
-🎯 Objetivo del proyecto
+## 🎯Objetivo del proyecto
 
 - Analizar la evolución diaria del precio de las acciones de Disney.
 - Visualizar precios de apertura, cierre, máximo y mínimo.
@@ -18,7 +11,7 @@ El objetivo principal es visualizar el comportamiento histórico del precio, el 
 - Analizar el volumen de operaciones junto con una media móvil de 30 días.
 - Combinar visualizaciones interactivas (Plotly) y estáticas (Matplotlib / Seaborn).
 
-📁 Descripción de los datos
+## 📁Descripción de los datos
 
 El dataset contiene información bursátil diaria de Disney, incluyendo:
 - Date: fecha de negociación
@@ -28,7 +21,8 @@ El dataset contiene información bursátil diaria de Disney, incluyendo:
 - Close: precio de cierre
 - Volume: volumen de acciones negociadas
 
-📈 Análisis realizado
+## 📈Análisis realizado
+
 1. Visualización de precios
 - Series temporales de:
   - Precio de apertura
@@ -50,28 +44,32 @@ El dataset contiene información bursátil diaria de Disney, incluyendo:
 - Superposición de media móvil
 - Estilo oscuro orientado a análisis financiero
 
-🛠️ Tecnologías utilizadas
+## 🛠️Tecnologías utilizadas
+
 - Python
 - pandas / numpy
 - Plotly
 - Matplotlib
 - Seaborn
 
-📂 Estructura del proyecto
+## 📂Estructura del proyecto
+
 ├── Análisis de precios de acciones de Disney.py
 ├── DIS.csv
 └── README.md
 
-📌 Resultados principales
+## 📌Resultados principales
+
 - Identificación visual de tendencias en el precio de DIS.
 - Relación entre volumen y movimientos de precio.
 - Suavización del comportamiento del precio mediante medias móviles.
 - Comparación entre gráficos interactivos y estáticos.
 
-⚠️ Disclaimer
+## ⚠️Disclaimer
 
 Este proyecto es educativo y demostrativo.
 No constituye asesoramiento financiero ni recomendaciones de inversión.
+## 👤Autor
 
-Flavia Hepp
+**Flavia Hepp**
 Data Science · Análisis Financiero · Visualización de Datos
